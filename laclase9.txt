@@ -1,0 +1,19 @@
+box shadow generator css
+entrando en la primera pagina colocamos inset
+opasidad se copia el codigo en el after 
+
+se abre el background after se aplica la configuracion 
+vamos a recordar la grilla
+framework actual para que se adapte al contenedor una imagen se debe poner img-fluid
+el col sm se aplica para todos los que esten definidos
+si toco md computador 
+
+colocando el align item center en el row.. porque el row tiene un display flex por defecto
+el md es solo para computador
+vamos a empezar a trabajar una plantilla todo con bootstrap
+position absolute
+el body tiene una posicion relativa por defecto 
+el z index se esconde con posiciones abosultas
+z-index -1
+
+lo de las imagenes con position absoluta y z index-1

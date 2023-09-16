@@ -1,0 +1,166 @@
+a{
+    color: white;
+}
+.text-decoration-none{
+    color: white;
+}
+.meta{
+font-family: Orbitron;
+font-size: 55px;
+font-style: normal;
+font-weight: 700;
+line-height: 72px; /* 130.909% */
+background: linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.boton{
+    border-radius: 5px;
+    background: linear-gradient(97deg, #D10ED1 12.04%, #10A3DA 81.84%);
+}
+.boton2 {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid #D10ED1;
+}
+.row .col-2, .col-3{
+    color: #FFF;
+font-family: Orbitron;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.seccion2 .img1{
+    position: relative;
+    bottom: 220px;
+}
+
+.seccion2 .img2{
+    position: relative;
+    bottom: 400px;
+    left: 220px;
+}
+.seccion2 .metav, .seccion3 .metav{
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: Orbitron;
+font-size: 35px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.know{
+    border-radius: 5px;
+background: var(--3, linear-gradient(97deg, #D10ED1 12.04%, #10A3DA 81.84%));
+color: white;
+position: relative;
+bottom: 100px;
+}
+.seccion2 .subir{
+    position: relative;
+    bottom: 140px;
+}
+.seccion3 .texto{
+    position: relative;
+    bottom: 100px;
+}
+.seccion3 .uno{
+    background: #090823;
+    padding: 10px 0px 20px 10px;
+    margin: 0px 0px 0px 0px;
+    width: 360px;
+    height: 380px;
+    border-radius: 0 20px 0 20px;
+}
+.seccion3 .dos{
+    background: #090823;
+    padding: 10px 0px 20px 10px;
+    margin: 0px 0px 0px 0px;
+    width: 360px;
+    height: 380px;
+    border-radius: 0 20px 0 20px;
+}
+.seccion3 .tres{
+    background: #090823;
+    padding: 10px 0px 20px 10px;
+    margin: 0px 0px 0px 0px;
+    width: 360px;
+    height: 380px;
+    border-radius: 0 20px 0 20px;
+}
+.seccion3 .cuatro{
+    background: #090823;
+    padding: 10px 0px 20px 10px;
+    margin: 0px 0px 0px 0px;
+    width: 360px;
+    height: 380px;
+    border-radius: 0 20px 0 20px;
+}
+.seccion3 .cinco{
+    background: #090823;
+    padding: 10px 0px 20px 10px;
+    margin: 0px 0px 0px 0px;
+    width: 360px;
+    height: 380px;
+    border-radius: 0 20px 0 20px;
+}
+.seccion3 .seis{
+    background: #090823;
+    padding: 10px 0px 20px 10px;
+    margin: 0px 0px 0px 0px;
+    width: 360px;
+    height: 380px;
+    border-radius: 0 20px 0 20px;
+}
+.seccion3 .btn3{
+    background: var(--3, linear-gradient(97deg, #D10ED1 12.04%, #10A3DA 81.84%));
+    color: #FFF;
+}
+.seccion3 .btn4{
+    border-radius: 5px;
+    border: 1px solid var(--3, #D10ED1);
+    background: #090823;
+    color: #FFF;
+}
+.seccion4 .Activity{
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: Orbitron;
+font-size: 35px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.seccion4 .texto{
+    position: relative;
+    top: 20px;
+}
+.seccion5 .row{
+    background: #090823;
+}
+.seccion5 .MEtaV{
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.seccion4 .play{
+    position: relative;
+    bottom: 420px;
+}
+.seccion4 .subir-texto{
+    position: relative;
+    bottom: 215px;
+    left: 10px;
+}
+.seccion5 a{
+    color: white;
+}
